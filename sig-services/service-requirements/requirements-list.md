@@ -23,7 +23,7 @@
 | Does it solve my problem without me becoming active                            | Google doc | &cross; |
 | If user didn't change anything, the service should never stop working/break    | Google doc | &cross; |
 | Role-based access control policy                                               | [**Merged**](https://github.com/open-services-group/community/blob/main/sig-services/service-requirements/rbac-policy.md) | &check; |
-| Testing the service                                                            | [**Merged**]((https://github.com/open-services-group/community/blob/main/sig-services/service-requirements/testing.md)) | &check; |
+| Testing the service                                                            | [**Merged**](https://github.com/open-services-group/community/blob/main/sig-services/service-requirements/testing.md) | &check; |
 | User data collection/permissions                                               | [**PR**](https://github.com/open-services-group/community/pull/118) | &cross; |
 | Availability metrics/I can check status/Service outages that are not caused by user changes | [**PR**](https://github.com/open-services-group/community/pull/205) | &cross; |
 | Usage metrics                                                                  | [Issue/assigned](https://github.com/open-services-group/community/issues/193) | &cross; |
